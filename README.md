@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @poyrwz
+- 🌱 I’m currently learning Java and C#
+- 📫 Mail: selambenpoyraz@proton.me
